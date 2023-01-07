@@ -1,0 +1,55 @@
+.anyoneword{
+font-size: 32px;
+margin: 0px;
+width:100%;
+}
+.note{
+    font-size: 21px;
+    font-family:fantasy;
+    color:darkolivegreen ;
+}
+body{
+    background-size:cover;
+}
+.div_speed{
+    float: left;
+    
+}
+.div_speed_img{
+
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+
+}
+
+.div_volume{
+    float: right;
+    
+}
+.div_volume_img{
+
+    width: 200px;
+    border-radius: 100px;
+}
+#volume{
+    font-size: 30px;
+    margin: 15px;
+    
+}
+.play_button{
+    width:160px ;
+font-size: 25px;
+text-align: center;
+}
+
+canvas{
+border: 5px solid gold;
+border-radius: 20px;
+margin-top: 100px;
+}
+
+
